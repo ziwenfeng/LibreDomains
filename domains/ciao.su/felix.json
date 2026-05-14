@@ -7,6 +7,13 @@
   "records": [
     {
       "type": "CNAME",
+      "name": "@",
+      "content": "b16542b8-23c5-46c2-8c23-450f280ba7de.cfargotunnel.com",
+      "ttl": 3600,
+      "proxied": true
+    },
+    {
+      "type": "CNAME",
       "name": "www",
       "content": "felix.ciao.su",
       "ttl": 3600,
