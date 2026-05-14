@@ -1,0 +1,16 @@
+{
+  "owner": {
+    "name": "felix",
+    "github": "ziwenfeng",
+    "email": "18233971867@163.com"
+  },
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "www",
+      "content": "felix.ciao.su",
+      "ttl": 3600,
+      "proxied": true
+    }
+  ]
+}
